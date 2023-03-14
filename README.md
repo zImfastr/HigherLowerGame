@@ -2,6 +2,8 @@
 
 IMPORTANT: you need Python3
 
+type this in terminal:
+
 pip install colorama
 pip install secrets
 
